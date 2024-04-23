@@ -1,0 +1,23 @@
+# Python specific
+__pycache__/
+*.pyc
+
+# Virtual environment
+AcademicPredict/
+
+# IDE specific
+.vscode/
+
+
+# Distribution directory
+.dist/
+
+# Include and Lib directories (if created)
+Include/
+Lib/
+
+# Share directory (if created)
+share/
+
+# Configuration file for Python virtual environment
+pyvenv.cfg
